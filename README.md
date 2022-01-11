@@ -3,6 +3,7 @@
 <br>
 This is an interactive bot that plays rock, paper and scissors and actively communicates. Our purpose was to explore different modules of python and also make learning them intresting by constructing this fun game.
 <br>
+
 ## Python modules
 <br>
 1. Random: Random module helps in choosing the one of the three options rock, paper and scissor randomly
