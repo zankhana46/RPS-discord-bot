@@ -62,7 +62,8 @@ async def rps(ctx, message):
 bot.run('OTMwMzU2NDk4NjAzODQ3NzMw.Yd0sAg.hD8J5UTjQ58XoPB36YW83Z-LnV8')
 ```
 <br>
-TEAM MEMBERS
+
+## TEAM MEMBERS
 <br>
 1.)<a href="https://github.com/Abhiman1211">Abhiman Gautam </a>
 <br>
