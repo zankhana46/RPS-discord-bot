@@ -77,4 +77,3 @@ bot.run('OTMwMzU2NDk4NjAzODQ3NzMw.Yd0sAg.hD8J5UTjQ58XoPB36YW83Z-LnV8')
 3.)<a href="https://github.com/zankhana46">Zankhana Mehta </a>
 <br>
 
-![Uploading WhatsApp Image 2022-01-11 at 16.22.38.jpeg…]()
