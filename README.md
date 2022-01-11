@@ -1,5 +1,5 @@
 # RPS-discord-bot
-##Purpose
+## Purpose
 <br>
 This is an interactive bot that plays rock, paper and scissors and actively communicates. Our purpose was to explore different modules of python and also make learning them intresting by constructing this fun game.
 TEAM MEMBERS
